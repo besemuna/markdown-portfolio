@@ -1,1 +1,1 @@
-I'm procient in ** Javascript ** and ** Dart **
+I'm procient in ** Javascript **, ** Dart ** and Other technologies
